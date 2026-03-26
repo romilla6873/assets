@@ -8,7 +8,7 @@
   "explorer": "https://bscscan.com/token/0xdCf6F3E2ABEc861BfCc73639a4c5E9bf524F01Fa",
   "status": "active",
   "id": "0xdCf6F3E2ABEc861BfCc73639a4c5E9bf524F01Fa",
-  "tags": ["defi"],
+  "tags": ["defi","bsc"],
   "links": [
     {
       "name": "website",
