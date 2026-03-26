@@ -1,0 +1,11 @@
+{
+  "name": "HAF",
+  "type": "BEP20",
+  "symbol": "HAF",
+  "decimals": 18,
+  "website": "https://dapp.hfc999.com",
+  "description": "HAF is a decentralized token built on BSC, designed for DeFi applications and ecosystem growth.",
+  "explorer": "https://bscscan.com/token/0xdCf6F3E2ABEc861BfCc73639a4c5E9bf524F01Fa",
+  "status": "active",
+  "id": "0xdCf6F3E2ABEc861BfCc73639a4c5E9bf524F01Fa"
+}
